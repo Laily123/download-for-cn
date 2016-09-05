@@ -28,6 +28,10 @@ sha 值计算方法 https://blog.laily.net/archives/568/
 
   sha-256 `c569d66910b43044c35cc5b7d473505d933becb49080dab264eb6d4f310433b0`
 
--	Windos 32位版
+-	Windos 32位版 [下载]()
+  
+  sha-256 ``
 
--	Linux
+-	Windos 64位版 [下载]()
+  
+  sha-256 ``
