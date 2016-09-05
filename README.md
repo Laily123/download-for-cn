@@ -22,7 +22,7 @@ sha 值计算方法 https://blog.laily.net/archives/568/
 
 ## Chrome 下载
 #### V 53.0.2785.89
--	macOS [下载](https://o8l6oohcu.qnssl.com/software/googlechrome.dmg)
+-	macOS [下载](https://o8l6oohcu.qnssl.com/software/googlechrome.dmg)  
   sha-256 `c569d66910b43044c35cc5b7d473505d933becb49080dab264eb6d4f310433b0`
 -	Windos 32位版 [下载]()
   sha-256 
