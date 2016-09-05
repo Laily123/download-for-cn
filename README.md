@@ -28,10 +28,10 @@ sha 值计算方法 https://blog.laily.net/archives/568/
 
   sha-256 `c569d66910b43044c35cc5b7d473505d933becb49080dab264eb6d4f310433b0`
 
--	Windos 32位版 [下载]()
+-	Windos 32位版 [下载](https://o8l6oohcu.qnssl.com/software/ChromeStandaloneSetup32.exe)
   
-  sha-256 ``
+  sha-256 `ef1df9d3f5bb49df143656b09b7334857b4c4619feba35e9cc153de6db06ebf3`
 
--	Windos 64位版 [下载]()
+-	Windos 64位版 [下载](https://o8l6oohcu.qnssl.com/software/ChromeStandaloneSetup64.exe)
   
-  sha-256 ``
+  sha-256 `d3f41322519f917ea90b4f7672a537fa6cd7429a878cec71143bdded7763ea67`
